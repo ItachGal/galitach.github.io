@@ -70,6 +70,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ### 7. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-**[itachgal@gmail.com](mailto:itachgal+foulingo@gmail.com)**
+**[mail](mailto:itachgal+foulingo@gmail.com)**
 
 *This privacy policy is a template and should not be considered legal advice. You should consult with a legal professional to ensure it meets all legal requirements for your specific situation and jurisdiction.*
