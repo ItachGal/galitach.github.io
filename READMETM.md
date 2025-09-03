@@ -12,7 +12,7 @@ Our philosophy is simple: we collect as little information as possible.
 
 *   **We Collect Nothing Personal:** TalMind does not require you to create an account, and we do not collect, store, or share any of your personal information like your name, email, or location.
 
-*   **Your Progress is Yours:** All your learning progress—which words you've marked as "learned" and which badges you've earned—is saved **only on your device**. This data is never sent to us or any server.
+*   **Your Progress is Yours:** All your learning progress is saved **only on your device**. This data is never sent to us or any server.
 
 *   **Ads Keep the App Free:** To support the App's development and keep it free for everyone, we show ads through our partner, Google AdMob.
 
