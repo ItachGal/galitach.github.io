@@ -72,4 +72,17 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy, please contact us at:
 **[mail](mailto:itachgal+TalMind@gmail.com)**
 
+
+### **Disclaimer**
+
+The information provided by us (“we,” “us,” or “our”) through all of our apps (the “Applications”) is for general informational and entertainment purposes only. All information on the Applications is provided in good faith; however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Applications.
+
+**No Professional Advice**
+The Applications cannot and does not contain professional advice (including but not limited to legal, medical, health, or financial advice). The information is provided for general informational and entertainment purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. The use or reliance of any information contained in this Applications is solely at your own risk.
+
+**"As Is" and Limitation of Liability**
+THE APPLICATIONS ARE PROVIDED TO YOU "AS IS" AND "AS AVAILABLE" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE APPLICATION OR RELIANCE ON ANY INFORMATION PROVIDED ON THE APPLICATION. YOUR USE OF THE APPLICATION AND YOUR RELIANCE ON ANY INFORMATION ON THE APPLICATION IS SOLELY AT YOUR OWN RISK.
+
 *This privacy policy is a template and should not be considered legal advice. You should consult with a legal professional to ensure it meets all legal requirements for your specific situation and jurisdiction.*
