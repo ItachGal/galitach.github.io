@@ -93,6 +93,9 @@ The information provided by us (“we,” “us,” or “our”) through all of
 **No Professional Advice**
 The Applications cannot and does not contain professional advice (including but not limited to medical, health, or cognitive advice). The information is provided for general informational and entertainment purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. The use or reliance of any information contained in this Applications is solely at your own risk.
 
+**Content and Data Accuracy**
+The geographical and cultural data presented in the App, including but not limited to country names, capitals, flags, and anthems, is compiled from various public sources for educational and entertainment purposes. While we strive for accuracy, we do not warrant the complete correctness, timeliness, or reliability of this information. Errors or outdated information may exist. We welcome user feedback to improve our data. If you believe you have found an inaccuracy, please contact us at the email address provided in this policy.
+
 **"As Is" and Limitation of Liability**
 THE APPLICATIONS ARE PROVIDED TO YOU "AS IS" AND "AS AVAILABLE" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
 
