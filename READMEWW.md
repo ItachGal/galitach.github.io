@@ -1,8 +1,8 @@
-### **Privacy Policy & Terms of Service for Word Wise**
+### **Privacy Policy & Terms of Service for Word Wise: Spelling Game**
 
 **Last Updated:** Oct 25
 
-Thank you for using Word Wise ("we," "us," or "our"). This document explains our privacy practices and the terms you agree to when you use our application ("App"). By downloading, accessing, or using the App, you agree to this Privacy Policy and these Terms of Service.
+Thank you for using Word Wise: Spelling Game ("we," "us," or "our"). This document explains our privacy practices and the terms you agree to when you use our application ("App"). By downloading, accessing, or using the App, you agree to this Privacy Policy and these Terms of Service.
 
 ---
 
@@ -12,7 +12,7 @@ Thank you for using Word Wise ("we," "us," or "our"). This document explains our
 
 Our philosophy is to respect your privacy and handle as little information as possible.
 
-*   **We Do Not Collect Your Personal Information:** Word Wise does not require you to create an account, and we do not collect, store, or share personal information like your name or email.
+*   **We Do Not Collect Your Personal Information:** Word Wise: Spelling Game does not require you to create an account, and we do not collect, store, or share personal information like your name or email.
 *   **Your Progress is Stored Only On Your Device:** All your game progress, including completed words, points, unlocked stickers, and settings, is saved **exclusively on your device**. This data is never sent to us or any third-party server.
 
 ### 1. Information Handled by Third-Party Partners
@@ -20,7 +20,7 @@ Our philosophy is to respect your privacy and handle as little information as po
 To provide core features, stability, and keep the App running, we integrate trusted services from Google. We do not have direct access to the raw data they collect.
 
 #### a) Google AdMob (Advertisements)
-To keep Word Wise free, we show ads through Google AdMob. AdMob may collect data to serve personalized or non-personalized ads.
+To keep Word Wise: Spelling Game free, we show ads through Google AdMob. AdMob may collect data to serve personalized or non-personalized ads.
 
 *   **Data Handled:** This may include your device's advertising identifier (GAID), device model, operating system, IP address (for approximate location), and information on how you interact with ads.
 *   **Your Control:** You can opt out of personalized ads by going to your device's **Settings > Google > Ads** and selecting **"Delete advertising ID."** You may still see generic (non-personalized) ads.
@@ -33,7 +33,7 @@ To identify bugs and fix crashes, we use the standard reporting tools provided b
 
 ### 2. Children's Privacy
 
-Word Wise is intended for a general audience. We do not knowingly collect personal information from children under the age of 13 (or the relevant age of consent in your region). We recommend parents supervise their children's use of the application and interaction with any third-party services.
+Word Wise: Spelling Game is intended for a general audience. We do not knowingly collect personal information from children under the age of 13 (or the relevant age of consent in your region). We recommend parents supervise their children's use of the application and interaction with any third-party services.
 
 ### 3. Security
 
