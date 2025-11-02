@@ -16,7 +16,7 @@ Our philosophy is simple: we create safe, fun experiences by collecting as littl
 
 *   **Ads Keep the App Free:** To support the App's development and keep it free for everyone, we show ads through our partner, Google AdMob.
 
-*   **Third-Party Data Collection:** Google AdMob is the only third party that may collect data through our App to serve you relevant ads.
+*   **Third-Party Data Collection:** Google AdMob (and it's mediation) is the only third party that may collect data through our App to serve you relevant ads.
 
 ---
 
@@ -30,7 +30,7 @@ To be perfectly clear, we do not collect, request, or have access to any of your
 
 ### 2. Data Collected by Our Advertising Partner (Google AdMob)
 
-To provide relevant ads and support our App, we use the Google Mobile Ads SDK (AdMob). AdMob is a third-party service that collects and processes data to serve advertisements.
+To provide relevant ads and support our App, we use the Google Mobile Ads SDK (AdMob & Mediation w/Unity). AdMob is a third-party service that collects and processes data to serve advertisements.
 
 The types of data AdMob may collect include:
 
