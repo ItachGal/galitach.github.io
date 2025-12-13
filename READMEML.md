@@ -1,8 +1,8 @@
-# Privacy Policy for MilimLi
+# Privacy Policy for MilimLi & AnglitLi
 
 **Effective Date:** November 2025
 
-Thank you for using MilimLi ("App"), developed by **Gal Itach** ("we," "us," or "our"). We are committed to protecting your privacy and providing a transparent, engaging, and educational experience. This policy explains how information is handled when you use our App.
+Thank you for using MilimLi/AnglitLi ("App"), developed by **Gal Itach** ("we," "us," or "our"). We are committed to protecting your privacy and providing a transparent, engaging, and educational experience. This policy explains how information is handled when you use our App.
 
 ---
 
@@ -118,13 +118,13 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ---
 
-# Terms of Use for MilimLi
+# Terms of Use for MilimLi/AnglitLi
 
 **Effective Date:** November 2025
 
 ### 1. Agreement to Terms
 
-By downloading, installing, or using the MilimLi mobile application (the "Application"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the Application.
+By downloading, installing, or using the MilimLi/AnglitLi mobile application (the "Application"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the Application.
 
 ### 2. Intellectual Property Rights
 
