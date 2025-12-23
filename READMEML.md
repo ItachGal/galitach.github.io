@@ -160,27 +160,35 @@ You agree not to use the Application for any unlawful purpose or to engage in an
 
 While some testimonials were written by real users, the Application may display notifications regarding user activity (e.g., "Danny from Tel Aviv finished level 3!"), testimonials, or success stories. These are illustrative examples used for motivational, gamification, and marketing purposes. They do not necessarily represent real-time data or specific individual users. Any resemblance to actual persons, living or dead, is purely coincidental.
 
-### 7. Term and Termination
+### 7. Educational Purpose; No Medical Diagnosis
+
+Nature of Analysis: The Application analyzes specific user interaction metrics, including but not limited to response speed, time taken to complete tasks, and handwriting tracing patterns. You acknowledge that these metrics are collected solely for educational, gamification, and entertainment purposes.
+
+Not a Diagnostic Tool: The Application is not a medical device and is not intended to diagnose, screen, or assess any health conditions, cognitive impairments, or learning disabilities (such as dyslexia, dysgraphia, or ADHD). Any feedback provided by the Application regarding your performance is strictly limited to your in-app progress and should not be interpreted as a psychological or medical evaluation.
+
+Local Data Processing: We prioritize your privacy. The analysis of your response times and tracing data occurs entirely locally on your device. This data is not transmitted to our servers, nor do we store or review it to provide professional recommendations.
+
+### 8. Term and Termination
 
 These Terms shall remain in full force and effect while you use the Application. WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE APPLICATION TO ANY PERSON FOR ANY REASON OR FOR NO REASON.
 
-### 8. Governing Law
+### 9. Governing Law
 
 These Terms and your use of the Application are governed by and construed in accordance with the laws of the State of Israel, without regard to its conflict of law principles.
 
-### 9. Disclaimer of Warranties
+### 10. Disclaimer of Warranties
 
 THE APPLICATION IS PROVIDED TO YOU "AS IS" AND "AS AVAILABLE" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, WE, ON OUR OWN BEHALF AND ON BEHALF OF OUR AFFILIATES AND OUR AND THEIR RESPECTIVE LICENSORS AND SERVICE PROVIDERS, EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE APPLICATION, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
 
-### 10. Limitation of Liability
+### 11. Limitation of Liability
 
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL WE OR OUR AFFILIATES HAVE ANY LIABILITY ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APPLICATION FOR ANY PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, OR ANY OTHER CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH US IS TO DISCONTINUE YOUR USE OF THE APPLICATION. WHERE APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, OUR LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW, AND IN NO CASE SHALL OUR LIABILITY EXCEED THE AMOUNT YOU HAVE PAID TO US FOR ANY IN-APP PURCHASE.
 
-### 11. Indemnification
+### 12. Indemnification
 
 You agree to indemnify, defend, and hold harmless Gal Itach and its officers, directors, employees, agents, affiliates, successors, and assigns from and against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including reasonable attorneys' fees, arising from or relating to your use or misuse of the Application or your breach of these Terms.
 
-### 12. Contact Us
+### 13. Contact Us
 
 If you have any questions about these Terms of Use, please contact us at:
 **[Email](mailto:itachgal+MilimLi@gmail.com)**
