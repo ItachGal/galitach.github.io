@@ -57,9 +57,9 @@ This is an **optional** service you can sign into. If you choose to sign in, Goo
 
 This service is governed by the **[Google Play Games Services Terms of Service](https://policies.google.com/terms)** and the main **[Google Privacy Policy](https://policies.google.com/privacy)**.
 
-#### c) Google Play Billing (In-App Purchases)
+#### c) Google Play Billing/Apple App Store (In-App Purchases)
 
-When you make an in-app purchase (such as the Premium upgrade or a sticker pack), the transaction is processed securely by the Google Play Store. We **do not** collect, receive, or store any of your payment information. We only receive a confirmation from Google that a purchase was successfully completed, which allows us to unlock the content in the App. This process is governed by the **[Google Payments Terms of Service](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=buyertos)**.
+When you make an in-app purchase (such as the Premium upgrade or a sticker pack), the transaction is processed securely by the Google Play Store/Apple Store. We **do not** collect, receive, or store any of your payment information. We only receive a confirmation from Google that a purchase was successfully completed, which allows us to unlock the content in the App. This process is governed by the **[Google Payments Terms of Service](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=buyertos)** [IOS](https://www.apple.com/legal/privacy/data/en/app-store/).
 
 #### d) Google Analytics for Firebase (App Usage Analytics)
 
