@@ -54,7 +54,17 @@ This Service may contain links to other sites (via advertisements). If you click
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-## 8. Contact Us
+## 8. Disclaimer
+
+The QuickFix Games application is provided for entertainment purposes only. The App and its content are provided "as is" and "as available" without any warranties of any kind, either express or implied.
+
+**The App includes games that utilize the device's motion sensors (accelerometer and gyroscope), which may involve physical actions such as shaking or tilting your device. By playing these games, you acknowledge and agree that you are solely responsible for your actions and your surroundings. Please ensure you have a firm grip on your device and adequate space around you to prevent accidental drops, damage to property, or injury to yourself or others. Gal Itach shall not be held liable for any physical damage to your device, property, or any personal injury sustained as a result of playing the game.**
+
+To the fullest extent permissible by law, Gal Itach disclaims all warranties, express or implied. We do not warrant that the functions contained in the App will be uninterrupted or error-free, that defects will be corrected, or that the App is free of viruses or other harmful components.
+
+In no event shall Gal Itach be liable for any direct, indirect, incidental, special, or consequential damages that result from the use of, or the inability to use, the App. You use the App at your own risk.
+
+## 9. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
